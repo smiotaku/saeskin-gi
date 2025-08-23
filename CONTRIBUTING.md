@@ -42,3 +42,9 @@ Follow these steps to submit your contributions:
     `git commit -m "feat: add design for Anya Forger skin"`  
     `git push origin saeskin-gi`  
 5.  **Create a Pull Request (PR):** Go to your repository on GitHub, click the **"Pull Request"** button, write a clear description and link it to the relevant issue, and then submit your PR.
+
+---
+
+### Rewards
+
+As a form of appreciation, contributors whose **Pull Request** is merged will get access to **Community Version**. These are exclusive skins available only to contributors.
