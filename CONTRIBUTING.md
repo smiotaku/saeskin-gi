@@ -33,7 +33,7 @@ Follow these steps to submit your contributions:
 1.  **Fork the Repository:** Go to the main repository page and click the **"Fork"** button in the top-right corner.
 2.  **Create a New Branch:** After you have a copy of the repository, **clone** it to your local machine and create a new branch:  
     `git clone https://github.com/smiotaku/saeskin-gi.git`  
-    `git checkout -b your-branch-name`  
+    `git checkout -b saeskin-gi`  
 3.  **Work on Your Contribution:**
     * **For Graphic Design:** Download the necessary PSD file, make your edits, and save it back in the same folder.
     * **For Image Hunting:** Create a new folder for the skin you are working on, then upload the images you've found there.
