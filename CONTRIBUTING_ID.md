@@ -19,7 +19,7 @@ Saat ini, kami menerima kontribusi untuk hal-hal berikut:
 
 Untuk menjaga konsistensi dan kualitas, mohon ikuti aturan berikut:
 
-* **Penting:** Selalu mulai dengan membuat **Issue** terlebih dahulu.
+* **Penting:** Selalu mulai dengan membuat [**Issue**](https://github.com/smiotaku/saeskin-gi/issues) terlebih dahulu.
 * **Hak Cipta:** Hanya gunakan gambar yang bebas hak cipta atau gambar yang jelas untuk penggunaan non-komersial. Jika Anda ragu, berikan sumber gambarnya.
 * **Konsistensi PSD:** **Jangan** mengubah struktur layer atau nama layer pada file PSD yang kami sediakan.
 * **Kualitas Gambar:** Gambar yang digunakan harus memiliki resolusi tinggi dan tidak buram.
@@ -31,14 +31,14 @@ Untuk menjaga konsistensi dan kualitas, mohon ikuti aturan berikut:
 Ikuti langkah-langkah berikut untuk mengirimkan kontribusi Anda:
 
 1.  **Fork Repositori:** Buka halaman utama repositori ini dan klik tombol **"Fork"** di pojok kanan atas.
-2.  **Buat Branch Baru:** Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:
-    `git clone https://github.com/akun-anda/nama-repositori-ini.git`
-    `git checkout -b nama-branch-anda`
+2.  **Buat Branch Baru:** Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:  
+    `git clone https://github.com/smiotaku/saeskin-gi.git`  
+    `git checkout -b saeskin-gi`  
 3.  **Kerjakan Kontribusi Anda:**
     * **Desain Grafis:** Unduh file PSD, edit, lalu simpan kembali dalam folder yang sama.
     * **Pencarian Gambar:** Buat folder baru untuk skin yang Anda kerjakan, lalu unggah gambar-gambar ke sana.
-4.  **Commit dan Push Perubahan:** Setelah semua pekerjaan selesai, tambahkan perubahan, *commit*, dan *push* ke repositori Anda:
-    `git add .`
-    `git commit -m "feat: tambahkan desain untuk skin Anya Forger"`
-    `git push origin nama-branch-anda`
+4.  **Commit dan Push Perubahan:** Setelah semua pekerjaan selesai, tambahkan perubahan, *commit*, dan *push* ke repositori Anda:  
+    `git add .`  
+    `git commit -m "feat: tambahkan desain untuk skin Anya Forger"`  
+    `git push origin saeskin-gi`  
 5.  **Buat Pull Request (PR):** Buka repositori Anda di GitHub, klik tombol **"Pull Request"**, isi deskripsi dengan jelas dan tautkan ke *issue* yang terkait, lalu kirim PR Anda.
