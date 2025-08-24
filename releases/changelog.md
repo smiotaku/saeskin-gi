@@ -1,4 +1,9 @@
 # SAESKIN CHANGELOG
+# Release v2.0.0 - Convert
+## 24/08/2025
+### What's Changed
+- Adjusted compatibility with AIMP v5.40.2691, though minor issues may still occur.
+
 # Release v1.7.170
 ## 12/11/23
 ### What's Changed
