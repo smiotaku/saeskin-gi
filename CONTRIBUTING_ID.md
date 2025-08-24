@@ -1,51 +1,43 @@
 # Panduan Kontribusi
 
-Terima kasih banyak atas minat Anda untuk berkontribusi pada proyek skin AIMP bertema anime ini! Kontribusi Anda sangat berarti.
+Terima kasih banyak atas minat Anda untuk berkontribusi pada proyek skin AIMP bertema anime ini! Kontribusi Anda sangat berarti. ✨
 
-Sebelum memulai, pastikan Anda memahami alur kerja dan aturan yang ada. Hal ini untuk memastikan proses kolaborasi berjalan lancar.
-
----
-
-### Jenis Kontribusi yang Diterima
-
-Saat ini, kami menerima kontribusi untuk hal-hal berikut:
-
-1.  **Pencarian Desain (Image Hunting):** Membantu mencari gambar atau wallpaper berkualitas tinggi yang cocok untuk desain skin.
-2.  **Bantuan Desain Grafis:** Mengedit file PSD (Photoshop) yang sudah kami sediakan untuk membuat bagian-bagian skin (seperti tombol, background, dll.) berdasarkan desain yang sudah disetujui.
+Sebelum memulai, pastikan Anda memahami alur kerja dan aturan yang ada. Hal ini untuk memastikan proses kolaborasi berjalan lancar. 🤝
 
 ---
 
-### Aturan Kontribusi
+### 📚 Aturan Kontribusi
 
 Untuk menjaga konsistensi dan kualitas, mohon ikuti aturan berikut:
 
-* **Penting:** Selalu mulai dengan membuat [**Issue**](https://github.com/smiotaku/saeskin-gi/issues) terlebih dahulu.
-* **Hak Cipta:** Hanya gunakan gambar yang bebas hak cipta atau gambar yang jelas untuk penggunaan non-komersial. Jika Anda ragu, berikan sumber gambarnya.
-* **Konsistensi PSD:** **Jangan** mengubah struktur layer atau nama layer pada file PSD yang kami sediakan.
-* **Kualitas Gambar:** Gambar yang digunakan harus memiliki resolusi tinggi dan tidak buram.
+* **Penting: Hindari Duplikasi!** 🔍 Sebelum membuat *issue* baru, **cari terlebih dahulu** di halaman [Issues](https://github.com/smiotaku/saeskin-gi/issues) untuk melihat apakah karakter atau desain yang Anda inginkan sudah pernah diajukan. Jika sudah ada, tambahkan komentar di *issue* yang bersangkutan alih-alih membuat *issue* baru.
+* **Hak Cipta:** 📝 Hanya gunakan gambar yang bebas hak cipta atau gambar yang jelas untuk penggunaan non-komersial. Jika Anda ragu, berikan sumber gambarnya.
+* **Konsistensi PSD:** 🎨 **Jangan** mengubah struktur layer atau nama layer pada file PSD yang kami sediakan.
+* **Kualitas Gambar:** 🖼️ Gambar yang digunakan harus memiliki resolusi tinggi dan tidak buram.
 
 ---
 
-### Alur Kerja Kontribusi
+### 🚀 Alur Kerja Kontribusi
 
 Ikuti langkah-langkah berikut untuk mengirimkan kontribusi Anda:
 
-1.  **Fork Repositori:** Buka halaman utama repositori ini dan klik tombol **"Fork"** di pojok kanan atas.
-2.  **Buat Branch Baru:** Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:  
-    `git clone https://github.com/smiotaku/saeskin-gi.git`  
-    `git checkout -b saeskin-gi`  
-3.  **Kerjakan Kontribusi Anda:**
+1.  **Cek Issue yang Ada:** 🔎 Buka halaman [Issues](https://github.com/smiotaku/saeskin-gi/issues) dan gunakan fitur pencarian dengan nama karakter atau anime.
+2.  **Buat Issue Baru:** 📄 Jika belum ada, buat *issue* baru dengan menggunakan template yang tersedia.
+3.  **Fork Repositori:** 🍴 Buka halaman utama repositori ini dan klik tombol **"Fork"** di pojok kanan atas.
+4.  **Buat Branch Baru:** 🌳 Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:  
+    `git clone https://github.com/smiotaku/saeskin-gi.git`
+    `git checkout -b saeskin-gi`
+5.  **Kerjakan Kontribusi Anda:** 🔨
     * **Desain Grafis:** Unduh file PSD, edit, lalu simpan kembali dalam folder yang sama.
     * **Pencarian Gambar:** Buat folder baru untuk skin yang Anda kerjakan, lalu unggah gambar-gambar ke sana.
-4.  **Commit dan Push Perubahan:** Setelah semua pekerjaan selesai, tambahkan perubahan, *commit*, dan *push* ke repositori Anda:  
+6.  **Commit dan Push Perubahan:** 💾 Setelah semua pekerjaan selesai, tambahkan perubahan, *commit*, dan *push* ke repositori Anda:  
     `git add .`  
     `git commit -m "feat: tambahkan desain untuk skin Anya Forger"`  
     `git push origin saeskin-gi`  
-5.  **Buat Pull Request (PR):** Buka repositori Anda di GitHub, klik tombol **"Pull Request"**, isi deskripsi dengan jelas dan tautkan ke *issue* yang terkait, lalu kirim PR Anda.
+7.  **Buat Pull Request (PR):** 📥 Buka repositori Anda di GitHub, klik tombol **"Pull Request"**, isi deskripsi dengan jelas dan tautkan ke *issue* yang terkait, lalu kirim PR Anda.
 
 ---
 
-### Penghargaan (Reward)
+### 🎁 Penghargaan (Reward)
 
-Sebagai bentuk apresiasi, kontributor yang **Pull Request**-nya digabungkan (merged) akan mendapatkan akses ke **versi komunitas**. Ini adalah skin eksklusif yang hanya bisa didapatkan oleh para kontributor.
-
+Sebagai bentuk apresiasi, kontributor yang **Pull Request**-nya digabungkan (merged) akan mendapatkan akses ke **versi komunitas**. Ini adalah skin eksklusif yang hanya bisa didapatkan oleh para kontributor. 🎉
