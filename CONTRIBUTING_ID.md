@@ -24,9 +24,9 @@ Ikuti langkah-langkah berikut untuk mengirimkan kontribusi Anda:
 1.  **Cek Issue yang Ada:** 🔎 Buka halaman [Issues](https://github.com/smiotaku/saeskin-gi/issues) dan gunakan fitur pencarian dengan nama karakter atau anime.
 2.  **Buat Issue Baru:** 📄 Jika belum ada, buat *issue* baru dengan menggunakan template yang tersedia.
 3.  **Fork Repositori:** 🍴 Buka halaman utama repositori ini dan klik tombol **"Fork"** di pojok kanan atas.
-4.  **Buat Branch Baru:** 🌳 Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:  
-    `git clone https://github.com/smiotaku/saeskin-gi.git`
-    `git checkout -b saeskin-gi`
+4.  **Buat Branch Baru:** 🌳 Setelah Anda memiliki salinan repositori, **clone** ke komputer lokal Anda dan buat branch baru:   
+    `git clone https://github.com/smiotaku/saeskin-gi.git`  
+    `git checkout -b saeskin-gi`  
 5.  **Kerjakan Kontribusi Anda:** 🔨
     * **Desain Grafis:** Unduh file PSD, edit, lalu simpan kembali dalam folder yang sama.
     * **Pencarian Gambar:** Buat folder baru untuk skin yang Anda kerjakan, lalu unggah gambar-gambar ke sana.
